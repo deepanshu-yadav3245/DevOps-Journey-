@@ -46,7 +46,7 @@ end
 mkdir ubuntu-vm && cd ubuntu-vm.
 
 # Step 2: Initialize Ubuntu box
-vagrant init ubuntu/bionic64
+vagrant init ubuntu/bionic64.
 
 # Step 3: Start the virtual machine
 vagrant up
