@@ -15,7 +15,7 @@ It comes bundled with Git for Windows and is very helpful for DevOps beginners.
 
 ## 🚀 Why I Used Git Bash?
 
-- To practice basic Linux commands
+- To practice basic Linux commands.
 - To use Git version control locally.
 - To run shell commands without installing full Linux.
 - To interact with GitHub using terminal.
