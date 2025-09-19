@@ -49,7 +49,7 @@ mkdir ubuntu-vm && cd ubuntu-vm.
 vagrant init ubuntu/bionic64.
 
 # Step 3: Start the virtual machine
-vagrant up
+vagrant up.
 
 # Step 4: SSH into Ubuntu
 vagrant ssh
