@@ -43,7 +43,7 @@ end
 ▶️ Setup Steps
 
 # Step 1: Create project folder
-mkdir ubuntu-vm && cd ubuntu-vm
+mkdir ubuntu-vm && cd ubuntu-vm.
 
 # Step 2: Initialize Ubuntu box
 vagrant init ubuntu/bionic64
