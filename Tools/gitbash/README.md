@@ -24,9 +24,9 @@ It comes bundled with Git for Windows and is very helpful for DevOps beginners.
 
 ## ⚙️ How I Installed It
 
-1. Downloaded from [git-scm.com](https://git-scm.com/)
-2. Installed with default options
-3. Right-click on desktop or folder → **Git Bash Here**
+1. Downloaded from [git-scm.com](https://git-scm.com/).
+2. Installed with default options.
+3. Right-click on desktop or folder → **Git Bash Here**.
 
 ---
 
