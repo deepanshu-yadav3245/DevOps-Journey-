@@ -1,6 +1,6 @@
 # 💻 Git Bash - My Linux Terminal on Windows
 
-As part of my DevOps journey, I used **Git Bash** to practice Linux commands on my Windows laptop.  
+As part of my DevOps journey, I used **Git Bash** to practice Linux .commands on my Windows laptop.  
 It gave me a Unix-like terminal experience without needing a full Linux OS.
 
 ---
