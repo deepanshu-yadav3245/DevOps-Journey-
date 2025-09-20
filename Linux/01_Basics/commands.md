@@ -31,7 +31,7 @@ Linux commands are instructions given to the terminal to perform tasks like file
 | `cat` | View file contents | `cat notes.txt` |
 | `echo` | Print text or append to file | `echo "Hello" >> notes.txt` |
 | `nano` | Edit file in Nano editor | `nano notes.txt` |
-| `vim` | Edit file in Vim editor | `vim notes.txt` |.
+| `vim` | Edit file in Vim editor | `vim notes.txt` |
 
 ---
 
