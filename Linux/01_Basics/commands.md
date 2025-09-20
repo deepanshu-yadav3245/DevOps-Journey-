@@ -50,4 +50,4 @@ Linux commands are instructions given to the terminal to perform tasks like file
 - Use **↑ / ↓** arrow keys to scroll through command history.
 - Combine commands with `&&`:
 ```bash
-mkdir test && cd test
+mkdir test && cd test.
