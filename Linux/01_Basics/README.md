@@ -33,7 +33,7 @@ Linux follows a **layered architecture**:
 - **Multi-User** – Multiple people can use the system simultaneously.
 - **Multitasking** – Run many processes at the same time.
 - **Security** – Permissions and user roles for data protection.
-- **Portability** – Runs on almost any hardware
+- **Portability** – Runs on almost any hardware.
 
 ---
 
