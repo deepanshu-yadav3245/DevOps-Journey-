@@ -46,8 +46,8 @@ Linux commands are instructions given to the terminal to perform tasks like file
 ---
 
 ## 💡 Pro Tips
-- Use **Tab** to auto-complete commands or file names
-- Use **↑ / ↓** arrow keys to scroll through command history.
+- Use **Tab** to auto-complete commands or file names.
+- Use **↑ / ↓** arrow keys to scroll through command history
 - Combine commands with `&&`:
 ```bash
 mkdir test && cd test.
