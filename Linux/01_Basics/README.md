@@ -29,7 +29,7 @@ Linux follows a **layered architecture**:
 ---
 
 ## 🔑 Key Features
-- **Open Source** – Free to use, modify, and distribute
+- **Open Source** – Free to use, modify, and distribute.
 - **Multi-User** – Multiple people can use the system simultaneously.
 - **Multitasking** – Run many processes at the same time.
 - **Security** – Permissions and user roles for data protection.
