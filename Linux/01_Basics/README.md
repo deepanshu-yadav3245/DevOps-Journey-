@@ -2,7 +2,7 @@
 
 ## 📌 Introduction
 Linux is a free and open-source operating system kernel created by **Linus Torvalds** in 1991.  
-It is widely used in **servers, desktops, mobile devices, and embedded systems** due to its stability, security, and flexibility.
+It is widely used in **servers, desktops, mobile devices, and embedded systems** due to its stability, security, and flexibility
 
 ---
 
