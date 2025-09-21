@@ -12,7 +12,7 @@ It is widely used in **servers, desktops, mobile devices, and embedded systems**
 | 1969 | UNIX was created at Bell Labs |
 | 1991 | Linus Torvalds released the first Linux kernel |
 | 1992 | Linux became **GPL Licensed** (open-source) |
-| Present | Backbone of cloud computing, DevOps, and supercomputers 
+| Present | Backbone of cloud computing, DevOps, and supercomputers |
 
 ---
 
