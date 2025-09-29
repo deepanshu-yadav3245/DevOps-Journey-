@@ -1,0 +1,36 @@
+!/bin/bash
+
+# Simple Calculator Script
+
+echo "Enter first number: "
+read num1
+
+echo "Enter second number: "
+read num2
+
+echo "Choose operation (+, -, *, /): "
+read op
+
+if [ "$op" == "+" ]; then
+    result=$((num1 + num2))
+    echo "Result: $result"
+
+elif [ "$op" == "-" ]; then
+    result=$((num1 - num2))
+    echo "Result: $result"
+
+elif [ "$op" == "*" ]; then
+    result=$((num1 * num2))
+    echo "Result: $result"
+
+elif [ "$op" == "/" ]; then
+    if [ $num2 -ne 0 ]; then
+        result=$((num1 / num2))
+        echo "Result: $result"
+    else
+        echo "Error: Division by zero not allowed!"
+    fi
+
+else
+    echo "Invalid operation!"
+fi
