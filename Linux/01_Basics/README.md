@@ -17,7 +17,7 @@ It is widely used in **servers, desktops, mobile devices, and embedded systems**
 ---
 
 ## 🏗 Linux Architecture
-Linux follows a **layered architecture**:
+Linux follows a **layered architecture**
 
 1. **Kernel** 🧠 – Core part that manages hardware and system resources.
 2. **Shell** 💻 – Interface between the user and the kernel.
